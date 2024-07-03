@@ -1,5 +1,11 @@
 # tsconfig
 
+## 0.17.0-mme-test-gh-ci.0
+
+### Minor Changes
+
+- Test Github CI
+
 ## 0.16.0
 
 ### Minor Changes

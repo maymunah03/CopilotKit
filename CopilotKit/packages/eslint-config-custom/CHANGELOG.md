@@ -1,5 +1,11 @@
 # eslint-config-custom
 
+## 0.13.0-mme-test-gh-ci.0
+
+### Minor Changes
+
+- Test Github CI
+
 ## 0.12.0
 
 ### Minor Changes

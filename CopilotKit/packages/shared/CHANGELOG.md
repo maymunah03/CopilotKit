@@ -1,5 +1,11 @@
 # @copilotkit/shared
 
+## 0.38.0-mme-test-gh-ci.0
+
+### Minor Changes
+
+- Test Github CI
+
 ## 0.37.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # tailwind-config
 
+## 0.12.0-mme-test-gh-ci.0
+
+### Minor Changes
+
+- Test Github CI
+
 ## 0.11.0
 
 ### Minor Changes
